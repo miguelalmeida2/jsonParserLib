@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pt.isel.JsonParserTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-06-08T19:44:57" hostname="MacBook-Pro-de-Miguel.local" time="0.709">
+  <properties/>
+  <testcase name="parseArray" classname="pt.isel.JsonParserTest" time="0.578"/>
+  <testcase name="parseComposeObject" classname="pt.isel.JsonParserTest" time="0.011"/>
+  <testcase name="parseSimpleObjectViaConstructor" classname="pt.isel.JsonParserTest" time="0.001"/>
+  <testcase name="parseBirthPropertyToClass" classname="pt.isel.JsonParserTest" time="0.042"/>
+  <testcase name="parseArrayLazy" classname="pt.isel.JsonParserTest" time="0.011"/>
+  <testcase name="parseSimpleObjectViaProperties" classname="pt.isel.JsonParserTest" time="0.002"/>
+  <testcase name="parseAccountWithTransactionAnnotation" classname="pt.isel.JsonParserTest" time="0.033"/>
+  <testcase name="parseAccount" classname="pt.isel.JsonParserTest" time="0.017"/>
+  <testcase name="parseClassroom" classname="pt.isel.JsonParserTest" time="0.01"/>
+  <testcase name="parsePropertyAltName" classname="pt.isel.JsonParserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
